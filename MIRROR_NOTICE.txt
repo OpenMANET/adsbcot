@@ -1,0 +1,20 @@
+OpenMANET recovered source mirror: adsbcot 9.0.1
+
+Recovered from an existing OpenMANET firmware download cache after the
+original source endpoint became unavailable. This is a source snapshot;
+upstream Git history has not been recovered.
+
+Original project: https://github.com/snstac/adsbcot
+Original copyright: Sensors & Signals LLC and the per-file copyright holders.
+Source format: PyPI source distribution
+Original archive: adsbcot-9.0.1.tar.gz
+SHA-256: fb0a2349ee7ddf52fe9be3d0fc97cf045cddcd2d3187af6f5903f4673490f3ec
+
+The original LICENSE and all source copyright/license notices are retained.
+No upstream source file has been modified. OpenMANET added this notice and
+UPSTREAM_SOURCE.json to document the recovery. This mirror does not imply
+upstream endorsement. Archived upstream workflows are retained as source,
+with GitHub Actions disabled for this mirror.
+
+The release asset bearing the original archive name is byte-for-byte the
+cached archive. See UPSTREAM_SOURCE.json for its original file manifest.

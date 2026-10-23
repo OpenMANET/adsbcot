@@ -1,0 +1,39 @@
+{
+  "project": "adsbcot",
+  "version": "9.0.1",
+  "upstream_repository": "https://github.com/snstac/adsbcot",
+  "recovery_format": "PyPI source distribution",
+  "upstream_commit": null,
+  "source_archive": "adsbcot-9.0.1.tar.gz",
+  "source_sha256": "fb0a2349ee7ddf52fe9be3d0fc97cf045cddcd2d3187af6f5903f4673490f3ec",
+  "copyright": "Sensors & Signals LLC; original per-file notices retained",
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "recovery_note": "Recovered source snapshot, not recovered Git history. Original source files are unchanged. Only UPSTREAM_SOURCE.json and MIRROR_NOTICE.txt were added.",
+  "upstream_files_sha256": {
+    "CHANGELOG.md": "019cd6889cd96b42e35ba98b847340fd8359db17e8c3143a2171106ebfb1185d",
+    "LICENSE": "160ecd880165de46efa49872a739880a051150ff1a061b1b1e036666e514580d",
+    "MANIFEST.in": "4b64a457cf4a6dbcf9215a18ddf0067dcd161b86ea8b231a9c05c4ecbd43000a",
+    "PKG-INFO": "9ecb6e74fc5905e288b9ddbb58cbe03529becbaa122f0795e8cbbe9e87a655cd",
+    "README.md": "7c07e52678577e630507392bf869cb0d29e60acab9ccf969893cb8e0fecf43cd",
+    "adsbcot.egg-info/PKG-INFO": "9ecb6e74fc5905e288b9ddbb58cbe03529becbaa122f0795e8cbbe9e87a655cd",
+    "adsbcot.egg-info/SOURCES.txt": "25ce3dbca952a7a2791ad8c927d0c71d714a390f5f51b4525821af97c5be15f0",
+    "adsbcot.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "adsbcot.egg-info/entry_points.txt": "29c0dbfe22c5abdd2305e18e1121125aaf12033b08e59d3d8792f3f2903c6257",
+    "adsbcot.egg-info/requires.txt": "9b85c635e34aff2115621cbaa7ff38c6ce01f1ffde7ee503b629d820af72af2f",
+    "adsbcot.egg-info/top_level.txt": "c6cf6e9ec5267987df42b19684e92dae5c80abebfc33914a44676c51fb0c0e30",
+    "setup.cfg": "05dd733cb112246d74380316b12c5a09f0ad22199dc4488bfbf45f11b499740f",
+    "setup.py": "5352d748a42862c8adc9cd81b4a436abc5efeb4271805978ebec5e4001c1fc87",
+    "src/adsbcot/VERSION": "59b003a1f3465ae6084432329f8265e860cbaac0bd4a92a4f3ea6b979a6eed66",
+    "src/adsbcot/__init__.py": "5f51927bec33d86e5d00b9eb04e53f6c5d70b0d581745515787a1a1acf088464",
+    "src/adsbcot/classes.py": "87358fefac2b5f2249c961453ace64b5781e99f8611a0508bbc5f0bd2bb56124",
+    "src/adsbcot/commands.py": "9c52b599738fadb12fc57dea6dfad282d4aa777f188b6092b3687ab440a7d6b3",
+    "src/adsbcot/constants.py": "f4adba6d280a85762fd1facf3bbe8abf9c3c82494e790e8dff73ce8190e7e5cb",
+    "src/adsbcot/functions.py": "54a13f8f2971e676796c0f39efcb7620d253a935d75f3294bc9a3fabec34ad2a",
+    "tests/test_adsbx.py": "1190ffd2c73a0ae534ad2486a7fe8db67275f167a88a91275476c8ddacc16654",
+    "tests/test_classes.py": "76d4548afd8ecf1ce660d759682595a11d3c7081c6379f91e5e62ebe33e7b4c8",
+    "tests/test_functions.py": "6cd431c2f34b08a933f29488a2ee38fa81511e6f5c711c24733d5264969b42d0",
+    "tests/test_stratux.py": "7e75072e010a5206f059d75b4faed4e4230938f3fedfe90157265fc53af0d7cf"
+  }
+}
